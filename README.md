@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianshurmer
 - 👀 I’m interested in Arduino, Rapsberry Pi, OpenHab, Home Automation
-- 📫 How to reach me ... adrianshurmer@sky.com
+- 📫 How to reach me ... 
 
 <!---
 adrianshurmer/adrianshurmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
