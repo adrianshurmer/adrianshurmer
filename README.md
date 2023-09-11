@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianshurmer
-- 👀 I’m interested in Arduino, Rapsberry Pi, OpenHab, Home Automation
+- 👀 I’m interested in Arduino, Rapsberry Pi, Home Automation, Home Assistant, openHab, Electronics, C++
 - 📫 How to reach me ... 
 
 <!---
